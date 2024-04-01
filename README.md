@@ -5,9 +5,7 @@
 
 Expressions can be evaluated and assigned to a variable name. These variables and their values can be viewed in the symbol table. Expressions can be differentiated, however as of current, they are not simplified.
 
-<!-- ![Variable](images/evaluation.png) -->
-<img src="images/evaluation.png" alt="evaluation" width="200" height="200"/>
-
+![Variable](images/evaluation.png)
 
 ## Abstract Syntax Tree
 
@@ -18,20 +16,20 @@ therefore, an abstract syntax tree is produced for all evaluated expressions and
 
 # Line Plotting
 
-[PlotLine](images/sinxplot.png)
+![PlotLine](images/sinxplot.png)
 
 ## Tangent plotting
 
 Tangents can be plotted given the value of x
-[Tangents](images/tangent.png)
+![Tangents](images/tangent.png)
 
 ## Area under the curve
 
-[AUC](images/area%20under%20curve.png)
+![AUC](images/area%20under%20curve.png)
 
 ## Programmatic Plotting
 
 Lines can be plotted in the evaluation window given for loop syntax
 
-[Programmatic](images/programatic%20plotting.png)
+![Programmatic](images/programatic%20plotting.png)
 

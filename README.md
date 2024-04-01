@@ -5,7 +5,9 @@
 
 Expressions can be evaluated and assigned to a variable name. These variables and their values can be viewed in the symbol table. Expressions can be differentiated, however as of current, they are not simplified.
 
-![Variable](images/evaluation.png)
+<!-- ![Variable](images/evaluation.png) -->
+<img src="images/evaluation.png" alt="evaluation" width="200" height="200"/>
+
 
 ## Abstract Syntax Tree
 
